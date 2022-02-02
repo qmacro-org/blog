@@ -5,18 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Blog Name</title>
     <meta name="description" content="I am writing about my experiences as a naval navel-gazer.">
-    <link rel="stylesheet" href="/eleventy-base-blog/css/index.css">
-    <link rel="stylesheet" href="/eleventy-base-blog/css/prism-base16-monokai.dark.css">
-    <link rel="alternate" href="/eleventy-base-blog/feed/feed.xml" type="application/atom+xml" title="Your Blog Name">
-    <link rel="alternate" href="/eleventy-base-blog/feed/feed.json" type="application/json" title="Your Blog Name">
+    <link rel="stylesheet" href="/blog/css/index.css">
+    <link rel="stylesheet" href="/blog/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/blog/feed/feed.xml" type="application/atom+xml" title="Your Blog Name">
+    <link rel="alternate" href="/blog/feed/feed.json" type="application/json" title="Your Blog Name">
   </head>
   <body>
     <header>
-      <h1 class="home"><a href="/eleventy-base-blog/">Your Blog Name</a></h1>
+      <h1 class="home"><a href="/blog/">Your Blog Name</a></h1>
       <ul class="nav">
-        <li class="nav-item"><a href="/eleventy-base-blog/">Home</a></li>
-        <li class="nav-item"><a href="/eleventy-base-blog/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/eleventy-base-blog/about/">About Me</a></li>
+        <li class="nav-item"><a href="/blog/">Home</a></li>
+        <li class="nav-item"><a href="/blog/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/blog/about/">About Me</a></li>
       </ul>
     </header>
 
@@ -35,8 +35,10 @@
 
       <table>
   <thead>
-    <th>URL</th>
-    <th>Page Title</th>
+    <tr>
+      <th>URL</th>
+      <th>Page Title</th>
+    </tr>
   </thead>
   <tbody>
   <tr>
@@ -76,12 +78,20 @@
     <td>Tagged “another tag”</td>
   </tr>
   <tr>
+    <td><a href="/tags/testtag/"><code>/tags/testtag/</code></a></td>
+    <td>Tagged “testtag”</td>
+  </tr>
+  <tr>
     <td><a href="/tags/second-tag/"><code>/tags/second-tag/</code></a></td>
     <td>Tagged “second tag”</td>
   </tr>
   <tr>
     <td><a href="/tags/number-2/"><code>/tags/number-2/</code></a></td>
     <td>Tagged “number 2”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/posts-with-two-tags/"><code>/tags/posts-with-two-tags/</code></a></td>
+    <td>Tagged “posts with two tags”</td>
   </tr>
   </tbody>
 </table>
@@ -91,6 +101,6 @@
 
     <footer></footer>
 
-    <!-- Current page: /eleventy-base-blog/page-list/ -->
+    <!-- Current page: /blog/page-list/ -->
   </body>
 </html>
