@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 3
 ---
 
-![Head shot](/img/DJA-head-small.jpg)
+![Head shot]({{ "/img/DJA-head-small.jpg" | url }})
 
 DJ is a [Developer Advocate at SAP](https://developers.sap.com/developer-advocates.html). He’s been hacking on SAP enterprise software for more than three decades, and is still enjoying it. He created the first SAP community in 1995 and in 2003 co-created what is now known today as [SAP Community](https://community.sap.com).
 
@@ -30,22 +30,22 @@ Follow DJ on [Twitter](//twitter.com/qmacro), subscribe to his [YouTube channel]
 
 ## Books
 
-![Programming Jabber](/img/books/programmingjabber.png)
+![Programming Jabber]({{ "/img/books/programmingjabber.png" | url}})
 
 [Programming Jabber](http://shop.oreilly.com/product/9780596002022.do), O'Reilly, 2001
 
-![Google Pocket Guide](/img/books/googlepocketguide.png)
+![Google Pocket Guide]({{ "/img/books/googlepocketguide.png" | url}})
 
 [Google Pocket Guide](http://shop.oreilly.com/product/9780596005504.do), O'Reilly, 2003
 
-![Practical Workflow for SAP](/img/books/practicalworkflow.png)
+![Practical Workflow for SAP]({{ "/img/books/practicalworkflow.png" | url}})
 
 [Practical Workflow for SAP](https://www.amazon.co.uk/Practical-Workflow-Revised-Rickayzen-Hardcover/dp/B011DCBNZO), SAP Press, 2014
 
-![30 Days of UI5](/img/books/30daysofui5.png)
+![30 Days of UI5]({{ "/img/books/30daysofui5.png" | url}})
 
 [30 Days of UI5](https://www.amazon.co.uk/30-Days-UI5-Celebrating-milestone-ebook/dp/B017MOJEWG), self published, 2014
 
-![SAP Fiori and SAPUI5: Debugging the User Interface](/img/books/debugging.png)
+![SAP Fiori and SAPUI5: Debugging the User Interface]({{ "/img/books/debugging.png" | url}})
 
 [SAP Fiori and SAPUI5: Debugging the User Interface](https://www.sap-press.com/sap-fiori-and-sapui5-debugging-the-user-interface_4305/), SAP Press, 2016
