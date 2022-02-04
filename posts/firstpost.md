@@ -15,7 +15,7 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 Here is some code
 
-```bash
+```
 
 #!/usr/bin/env bash
 
