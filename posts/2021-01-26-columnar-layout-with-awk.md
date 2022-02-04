@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Columnar layout with AWK
-date: '2021-01-26'
 ---
 
 _Here's a breakdown of a simple AWK script I wrote to format values into neatly aligned columns_

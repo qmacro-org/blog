@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Remote access to Docker on my Synology NAS
-date: '2021-06-12'
 ---
 
 _Here's what I did to enable remote access to the Docker install on my Synology NAS._

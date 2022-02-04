@@ -28,6 +28,9 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
   });
 
+  // For use in the permalink, so the URL path is /yyyy/mm/dd/title-slug/
+  eleventyConfig.addFilter('urlPathDate', (dateObj) => dateObj.toLocaleDateString('en-GB').split('/').reverse().join('/'));
+
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
     if(!Array.isArray(array) || array.length === 0) {

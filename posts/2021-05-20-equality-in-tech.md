@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Equality in tech
-date: '2021-05-20'
 ---
 
 _I support equality in tech, and so should you._

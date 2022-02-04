@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Setting up hadolint - a Dockerfile linter
-date: '2021-12-09'
 ---
 
 _Having something to help me write better Dockerfiles is useful. Here's what I did to set up a Dockerfile linter in my development environment._
 
+--> {{ page.date | urlPathDate }} <--
 I'm writing more Dockerfiles, not least because I'm using a [development container](https://github.com/qmacro/dotfiles/tree/main/devcontainer) for 95% of my daily work, but also because the dockerisation of tools and environments appeals to me greatly. I came across [hadolint][hadolint] which is a Dockerfile linter written in Haskell (hence the name, I guess).
 
 I'm a [big fan](https://qmacro.org/2021/05/19/supporting-developers-with-sponsorship/) of [shellcheck][shellcheck] (see the post [Improving my shell scripting](https://qmacro.org/2020/10/05/improving-my-shell-scripting/)) and the structured way it communicates the information, warning and error messages with codes in a standard format (SCnnnn). So I was immediately attracted to `hadolint` in two ways - first, that it referenced [shellcheck][shellcheck], but mostly because it implemented and managed its own [rules](https://github.com/hadolint/hadolint#rules) in a very similar way - each of them with a code in a standard format (DLnnnn) and individually documented too, just like `shellcheck`.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Notes on Markdown linting - part 1
-date: '2021-05-13'
 ---
 
 _Here's what I found out when I started to look into linting Markdown content._

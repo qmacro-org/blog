@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Early thoughts on Warp
-date: '2021-07-20'
 ---
 
 _Here are some very early thoughts on Warp, the "pro terminal designed for everyday use"._
@@ -44,6 +43,6 @@ And that's fresh thinking and energy going into what I think is one of the most 
 
 Here's a picture of Warp, from the very interesting [How Warp works](https://blog.warp.dev/how-warp-works/) article I mentioned earlier.
 
-![A picture of Warp](https://blog.warp.dev{{ "/img/2021/07/pasted-image-0-2.png" | url }})
+![A picture of Warp](https://blog.warp.dev/content/images/2021/07/pasted-image-0-2.png }})
 
 Make it so!

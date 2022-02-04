@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Deeper connections to everyday tools
-date: '2021-03-31'
 ---
 
 _With some things, ignorance is not bliss. There are entire features of the tools I use every day that I know little about, and I want to change that._

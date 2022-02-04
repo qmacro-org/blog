@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Supporting developers with sponsorship
-date: '2021-05-19'
 ---
 
 _I've started to use the sponsors facility on GitHub to support developers. Here's my thinking._

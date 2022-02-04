@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mainframes, SDSF and GitHub Actions
-date: '2021-04-04'
 ---
 
 _GitHub Actions workflows, mainframes and SDSF. I can't get the combination out of my head._

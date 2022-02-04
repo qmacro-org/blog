@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Notes on Markdown linting - part 2
-date: '2021-05-14'
 ---
 
 _More on Markdown linting, this time in the context of GitHub Actions._

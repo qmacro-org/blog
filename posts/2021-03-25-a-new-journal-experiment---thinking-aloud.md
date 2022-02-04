@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A new journal experiment - Thinking Aloud
-date: '2021-03-25'
 ---
 
 _I'm trying out a new way of sharing thoughts in a GitHub issues based journal style blog called [Thinking Aloud](https://github.com/qmacro/thinking-aloud)._

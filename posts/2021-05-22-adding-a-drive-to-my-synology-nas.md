@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Adding a drive to my Synology NAS
-date: '2021-05-22'
 ---
 
 _A brief summary of how things went adding a drive to my Synology DS1621+ NAS._

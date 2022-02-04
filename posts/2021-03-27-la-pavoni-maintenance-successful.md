@@ -1,7 +1,6 @@
 ---
 layout: post
 title: La Pavoni maintenance successful
-date: '2021-03-27'
 ---
 
 _I've successfully carried out maintenance on my La Pavoni espresso machine, and you can too. Here are some notes that may help._
