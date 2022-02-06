@@ -1,6 +1,10 @@
 ---
 layout: post
 title: The APC SMT750IC UPS works with the Synology NAS DS1621+
+tags:
+  - hardware
+  - nas
+  - ups
 ---
 
 _I've successfully configured this setup, and the USB connection from the UPS to the NAS does indeed work to tell the NAS to shut down._

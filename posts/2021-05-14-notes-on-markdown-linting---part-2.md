@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Notes on Markdown linting - part 2
+tags:
+  - markdown
+  - linting
 ---
 
 _More on Markdown linting, this time in the context of GitHub Actions._
@@ -209,4 +212,4 @@ jobs:
           docs/
 ```
 
-Everything works nicely, and I'm happy with the local and remote linting process. 
+Everything works nicely, and I'm happy with the local and remote linting process.

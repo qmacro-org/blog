@@ -3,7 +3,7 @@ layout: layouts/home.njk
 title: About
 eleventyNavigation:
   key: About
-  order: 3
+  order: 2
 ---
 
 ![Head shot]({{ "/img/DJA-head-small.jpg" | url }})

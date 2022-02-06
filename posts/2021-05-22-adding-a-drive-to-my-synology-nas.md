@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Adding a drive to my Synology NAS
+tags:
+  - nas
+  - hardware
 ---
 
 _A brief summary of how things went adding a drive to my Synology DS1621+ NAS._

@@ -4,11 +4,15 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+
+<h1>Hello</h1>
+<p>Hello, my name is DJ and this is my website. I'm a <a href="https://developers.sap.com/developer-advocates.html">Developer Advocate at SAP</a>. You can find out more about me in the <a href="/about/">About</a> page, and get to all my blog posts in the <a href="/archive/">Archive</a>.</p>
+
 {% set maxPosts = collections.posts.length | min(10) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+<h2>Latest Posts</h2>
 
 {% set postslist = collections.posts | head(-10) %}
 {% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
+{% include "latestposts.njk" %}
 
 <p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Solving mysterious unrendered markdown headings
+tags:
+  - markdown
 ---
 
 _I finally spent some time getting to the bottom of why some headings in my markdown content weren't getting rendered properly._

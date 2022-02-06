@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Thoughts on video content
+tags:
+  - thoughts
 ---
 
 _Here are some thoughts on video content - form, length, frequency and more, especially in a learning and sharing context, and specificially in a developer advocate content._

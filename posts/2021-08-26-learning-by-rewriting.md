@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Learning by rewriting - bash, jq and fzf details
+tags:
+  - tools
+  - shell
 ---
 
 _One of the ways I learn is by reading and sometimes rewriting other people's scripts. Here I learn more about `jq` by rewriting a friend's password CLI script._

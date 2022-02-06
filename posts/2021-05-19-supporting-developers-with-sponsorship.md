@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Supporting developers with sponsorship
+tags:
+  - community
 ---
 
 _I've started to use the sponsors facility on GitHub to support developers. Here's my thinking._

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: GitHub Actions workflow browser
+tags:
+  - github-actions
+  - tools
 ---
 
 _I wrote a simple workflow browser to help me refer to previous workflow definitions while I'm writing a new one, as I'm still learning the syntax and techniques._

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Early thoughts on Warp
+tags:
+  - shell
 ---
 
 _Here are some very early thoughts on Warp, the "pro terminal designed for everyday use"._

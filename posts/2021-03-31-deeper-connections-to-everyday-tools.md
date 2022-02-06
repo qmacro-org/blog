@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Deeper connections to everyday tools
+tags:
+  - tools
+  - thoughts
+  - coffee
 ---
 
 _With some things, ignorance is not bliss. There are entire features of the tools I use every day that I know little about, and I want to change that._
@@ -87,5 +91,3 @@ At the beginning of last year, along with other folks in the [SAP Community](htt
 So I guess this is a reminder for me that I'm nowhere near done. That's fine, continuous learning is a thing, and as it is for many others, it's my thing.
 
 Triggered by some mundane moments recently (eBay activities, gasket maintenance, the wearing thin of a simple wooden handle), I've come to realise what I need to do. And that is far from mundane. It won't be a short process -- I think mastery of these tools will only come over years -- but the journey will enjoyable and rich from the outset.
-
-

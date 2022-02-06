@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Equality in tech
+tags:
+  - community
 ---
 
 _I support equality in tech, and so should you._

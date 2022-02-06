@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Do less and do it better
+tags:
+  - thoughts
 ---
 
 _In 2021 I want to consolidate and improve upon some skills I already have, rather than add more. Here's what I mean, and how I got inspired._

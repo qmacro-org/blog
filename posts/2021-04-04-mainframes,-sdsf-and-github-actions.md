@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Mainframes, SDSF and GitHub Actions
+tags:
+  - github-actions
+  - mainframes
 ---
 
 _GitHub Actions workflows, mainframes and SDSF. I can't get the combination out of my head._

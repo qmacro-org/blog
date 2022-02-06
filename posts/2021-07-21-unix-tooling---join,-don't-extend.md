@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Unix tooling - join, don't extend
+tags:
+  - tools
+  - shell
 ---
 
 _Reading a paper from 1984 has helped crystallise an important axiom in Unix tool design, so much so that I found myself referring to it today when scripting._
