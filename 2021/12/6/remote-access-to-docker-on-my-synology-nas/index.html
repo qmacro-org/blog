@@ -9,21 +9,23 @@
     <link rel="stylesheet" href="/blog/css/prism-base16-monokai.dark.css">
     <link rel="alternate" href="/blog/feed/feed.xml" type="application/atom+xml" title="DJ Adams">
     <link rel="alternate" href="/blog/feed/feed.json" type="application/json" title="DJ Adams">
+    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
   </head>
   <body>
     <header>
       <h1 class="home"><a href="/blog/">DJ Adams</a></h1>
       <ul class="nav">
         <li class="nav-item"><a href="/blog/">Home</a></li>
-        <li class="nav-item"><a href="/blog/posts/">Archive</a></li>
         <li class="nav-item"><a href="/blog/about/">About</a></li>
+        <li class="nav-item"><a href="/blog/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/blog/tags/">Tags</a></li>
       </ul>
     </header>
 
     <main class="tmpl-post">
       <h1>Remote access to Docker on my Synology NAS</h1>
 
-<time datetime="2021-06-12">12 Jun 2021</time>
+<time datetime="2021-06-12">12 Jun 2021</time><a href="/blog/tags/docker/" class="post-tag">docker</a><a href="/blog/tags/nas/" class="post-tag">nas</a>
 
 <p><em>Here's what I did to enable remote access to the Docker install on my Synology NAS.</em></p>
 <p>This post describes the steps I took to set up remote access to Docker running on my NAS, in the simplest and &quot;smallest footprint&quot; possible way I could find. There are other approaches, but this is what I did. It was a little less obvious than one might have expected, because of the way the Docker service is hosted on the NAS's operating system, and I ended up having to read around (see the reading list at the end).</p>

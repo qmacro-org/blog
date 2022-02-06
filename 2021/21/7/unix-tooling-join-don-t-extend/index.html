@@ -9,21 +9,23 @@
     <link rel="stylesheet" href="/blog/css/prism-base16-monokai.dark.css">
     <link rel="alternate" href="/blog/feed/feed.xml" type="application/atom+xml" title="DJ Adams">
     <link rel="alternate" href="/blog/feed/feed.json" type="application/json" title="DJ Adams">
+    <link href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css" rel="stylesheet">
   </head>
   <body>
     <header>
       <h1 class="home"><a href="/blog/">DJ Adams</a></h1>
       <ul class="nav">
         <li class="nav-item"><a href="/blog/">Home</a></li>
-        <li class="nav-item"><a href="/blog/posts/">Archive</a></li>
         <li class="nav-item"><a href="/blog/about/">About</a></li>
+        <li class="nav-item"><a href="/blog/posts/">Archive</a></li>
+        <li class="nav-item"><a href="/blog/tags/">Tags</a></li>
       </ul>
     </header>
 
     <main class="tmpl-post">
       <h1>Unix tooling - join, don&#39;t extend</h1>
 
-<time datetime="2021-07-21">21 Jul 2021</time>
+<time datetime="2021-07-21">21 Jul 2021</time><a href="/blog/tags/tools/" class="post-tag">tools</a><a href="/blog/tags/shell/" class="post-tag">shell</a>
 
 <p><em>Reading a paper from 1984 has helped crystallise an important axiom in Unix tool design, so much so that I found myself referring to it today when scripting.</em></p>
 <p>Rob Pike and Brian Kernighan authored a paper in 1984 titled &quot;<a href="https://nymity.ch/sybilhunting/pdf/Pike1983a.pdf">Program design in the UNIX environment</a>&quot;. In it, they explore the difference between adding features to existing programs, and achieving the same effect through connecting programs together.</p>
