@@ -30,7 +30,7 @@
 <p><em>Here's a way to get a simple session switcher in <code>tmux</code> using a popup menu.</em></p>
 <p>I was looking at Waylon Walker's <a href="https://waylonwalker.com/tmux-fzf-session-jump/">tmux fzf session jumper</a> recently, and really liked it, so much so that I dug into the incantations that he shared, resulting in a new post on this autodidactics blog: <a href="https://qmacro.org/autodidactics/2021/08/06/tmux-output-formatting/">tmux output formatting</a>.</p>
 <p>Anyway, I was still thinking about session switching yesterday, and randomly came across this Reddit post: <a href="https://www.reddit.com/r/tmux/comments/ot77fx/how_to_bring_up_context_menu_without_mouse/">how to bring up context menu without a mouse</a>. I'd seen the context menu before, by accidentally triggering it with the right mouse button, and it looks something like this:</p>
-<p><img src="/autodidactics/content/images/2021/08/context-menu.png" alt="context menu"></p>
+<p><img src="/blog/img/2021/08/context-menu.png" alt="context menu"></p>
 <p>It was <a href="https://www.reddit.com/r/tmux/comments/ot77fx/how_to_bring_up_context_menu_without_mouse/h6tfadp/?utm_source=reddit&amp;utm_medium=web2x&amp;context=3">the comment by user Coffee_24_7</a> that really got me thinking - turns out that this type of menu can be called up with one of the myriad <code>tmux</code> commands, one which I hadn't yet come across: <code>display-menu</code>.</p>
 <h2 id="building-a-context-menu" tabindex="-1">Building a context menu <a class="direct-link" href="#building-a-context-menu" aria-hidden="true">#</a></h2>
 <p>I thought that using a context menu like this to present a list of sessions to switch to would be fun and teach me more about the <code>display-menu</code> command. Basically I just wanted to have the menu display the sessions I had, and when I'd selected one, switch me to it. So, this is what I did.</p>
@@ -85,7 +85,7 @@ writing
 <pre><code>bind-key C-s run-shell session-menu
 </code></pre>
 <p>And with this in place, I can invoke the session switch menu popup very comfortably - this is what it looks like:</p>
-<p><img src="/autodidactics/content/images/2021/08/session-switch-menu.png" alt="session switch menu"></p>
+<p><img src="/blog/img/2021/08/session-switch-menu.png" alt="session switch menu"></p>
 <p>If I decide I don't want to switch sessions after all, I can just dismiss the menu with the standard key <code>q</code> (this is also in the <code>display-menu</code> part of the <code>tmux</code> man page).</p>
 <hr>
 <p>So there you have it. I do love <code>fzf</code> and all the things it can do, but it's worth spending some time on this native <code>tmux</code> feature. There's more to it, as well - for example, you can add separators and disabled items (like the ones in the first screenshot in this post) - but this will do me nicely for now. Happy multiplexing!</p>
