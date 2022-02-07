@@ -2,6 +2,7 @@
 layout: post
 title: Truncation and neat terminal output
 tags:
+  - autodidactics
   - shell
   - tools
 ---
