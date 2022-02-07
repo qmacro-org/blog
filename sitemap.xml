@@ -2337,7 +2337,27 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/thinking/</loc>
+    <loc>https://qmacro.org/blog/tags/dashboard-tag/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/jabber/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/keynote/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/bof/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/opensource/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -2377,11 +2397,6 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/opensource/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/infotag/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -2408,11 +2423,6 @@
   
   <url>
     <loc>https://qmacro.org/blog/tags/tech/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/dashboard-tag/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -2497,16 +2507,6 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/jabber/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/keynote/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/timoreilly/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -2547,11 +2547,6 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/requirements/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/sjabber/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -2562,12 +2557,7 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/bookmarklet/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/javascript/</loc>
+    <loc>https://qmacro.org/blog/tags/requirements/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -2583,6 +2573,16 @@
   
   <url>
     <loc>https://qmacro.org/blog/tags/wsdl/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/bookmarklet/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/javascript/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -2692,21 +2692,6 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/joseph/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/programming/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/tarpipe/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/bridge/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -2723,6 +2708,21 @@
   
   <url>
     <loc>https://qmacro.org/blog/tags/tarbridge/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/tarpipe/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/joseph/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/programming/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -2802,27 +2802,17 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/appengine/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/coffeeshop/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/pubsub/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/screencast/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/postbin/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/pubsub/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -2837,12 +2827,22 @@
   </url>
   
   <url>
+    <loc>https://qmacro.org/blog/tags/appengine/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://qmacro.org/blog/tags/sendmail/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://qmacro.org/blog/tags/wave/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/screencast/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -2882,21 +2882,6 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/python/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/mtg/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/reading/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/azure/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -2922,6 +2907,11 @@
   </url>
   
   <url>
+    <loc>https://qmacro.org/blog/tags/python/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://qmacro.org/blog/tags/contextual/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -2933,6 +2923,16 @@
   
   <url>
     <loc>https://qmacro.org/blog/tags/gmail/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/mtg/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/reading/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3007,21 +3007,6 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/madlab/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/manchester/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/talk/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/ajax/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -3033,6 +3018,21 @@
   
   <url>
     <loc>https://qmacro.org/blog/tags/jsonp/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/madlab/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/manchester/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/talk/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3087,12 +3087,12 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/appsscript/</loc>
+    <loc>https://qmacro.org/blog/tags/apis/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/apis/</loc>
+    <loc>https://qmacro.org/blog/tags/appsscript/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3127,32 +3127,17 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/developercenter/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/gateway/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/hana/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/sup/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/charity/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://qmacro.org/blog/tags/movember/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/gateway/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3183,6 +3168,21 @@
   
   <url>
     <loc>https://qmacro.org/blog/tags/techedlive/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/developercenter/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/hana/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/sup/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3327,16 +3327,6 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/scratch/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/woodhouses/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/coderdojo/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -3357,6 +3347,31 @@
   </url>
   
   <url>
+    <loc>https://qmacro.org/blog/tags/scratch/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/woodhouses/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/contentservice/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/spreadsheet/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/spreadsheetservice/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://qmacro.org/blog/tags/git/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -3373,21 +3388,6 @@
   
   <url>
     <loc>https://qmacro.org/blog/tags/yrs2013/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/contentservice/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/spreadsheet/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/spreadsheetservice/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3502,7 +3502,7 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/tutorial/</loc>
+    <loc>https://qmacro.org/blog/tags/databinding/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3512,12 +3512,7 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/sap-m/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/databinding/</loc>
+    <loc>https://qmacro.org/blog/tags/tutorial/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3538,6 +3533,11 @@
   
   <url>
     <loc>https://qmacro.org/blog/tags/uxexplorer/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/sap-m/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3602,42 +3602,17 @@
   </url>
   
   <url>
+    <loc>https://qmacro.org/blog/tags/thinking/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://qmacro.org/blog/tags/iview/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://qmacro.org/blog/tags/portal/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/icons/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/singlefileapps/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/codejam/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/insidetrack/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/liverpool/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/sheffield/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -3797,16 +3772,6 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/travel/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/usa/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qmacro.org/blog/tags/flow/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
@@ -3872,17 +3837,27 @@
   </url>
   
   <url>
+    <loc>https://qmacro.org/blog/tags/travel/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/usa/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/30ui5/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://qmacro.org/blog/tags/aggregation/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://qmacro.org/blog/tags/binding/</loc>
-    <lastmod>2022-02-07</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qmacro.org/blog/tags/30ui5/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -4132,12 +4107,22 @@
   </url>
   
   <url>
+    <loc>https://qmacro.org/blog/tags/codejam/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://qmacro.org/blog/tags/devoxxuk/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
     <loc>https://qmacro.org/blog/tags/fluent/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/insidetrack/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -4227,12 +4212,12 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/saptd/</loc>
+    <loc>https://qmacro.org/blog/tags/language-ramblings/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/language-ramblings/</loc>
+    <loc>https://qmacro.org/blog/tags/saptd/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -4332,12 +4317,12 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/fzf/</loc>
+    <loc>https://qmacro.org/blog/tags/thoughts/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/thoughts/</loc>
+    <loc>https://qmacro.org/blog/tags/fzf/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
   
@@ -4417,7 +4402,22 @@
   </url>
   
   <url>
-    <loc>https://qmacro.org/blog/tags/bof/</loc>
+    <loc>https://qmacro.org/blog/tags/liverpool/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/sheffield/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/icons/</loc>
+    <lastmod>2022-02-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qmacro.org/blog/tags/singlefileapps/</loc>
     <lastmod>2022-02-07</lastmod>
   </url>
 </urlset>
