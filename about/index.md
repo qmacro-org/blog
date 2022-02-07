@@ -8,7 +8,7 @@ eleventyNavigation:
 
 ![Head shot]({{ "/img/DJA-head-small.jpg" | url }})
 
-_Looking for my latest content? Check out my [content aggregator](https://github.com/qmacro)._
+_Looking for a roundup of my latest content? In addition to [the blog posts here]({{ "/" | url}}), check out my [content aggregator](https://github.com/qmacro)._
 
 I'm a [Developer Advocate at SAP](https://developers.sap.com/developer-advocates.html). I've been hacking on SAP enterprise software for more than three decades, and am still enjoying it. I created the first SAP community in 1995, and in 2003 I co-created what is now known today as [SAP Community](https://community.sap.com).
 
