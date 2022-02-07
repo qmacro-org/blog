@@ -16,7 +16,7 @@ The btp CLI, like other tools that manage cloud-based resources, is quite verbos
 
 So when invoking the btp CLI with an action to look at the hierarchy of directories and subaccounts in a global account, the output tends to wrap around, like this:
 
-![hierarchy information, wrapped](/autodidactics/content/images/2021/09/hierarchy-wrapped.png)
+![hierarchy information, wrapped]({{ "/img/2021/09/hierarchy-wrapped.png" | url}})
 
 But with a simple wrapper function, I can have this a lot cleaner; granted, if there's something at the end of the long lines that I'm interested in, then I won't be able to use this, but it's usually information at the start of the lines that's important to me.
 
@@ -39,6 +39,6 @@ When I use `btp` to display information, with the `get` or `list` actions, this 
 
 Now, running that same command, the output looks like this:
 
-![hierarchy information, clean](/autodidactics/content/images/2021/09/hierarchy-clean.png)
+![hierarchy information, clean]({{ "/img/2021/09/hierarchy-clean.png" | url}})
 
 It's early days, but I quite like the way I can use the power of functions like this.

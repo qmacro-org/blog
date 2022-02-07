@@ -71,7 +71,7 @@ I open the `about:blank` page in a new Chrome window (`chrome-cli open about:bla
 
 Here it is in action (with some test URLs):
 
-![the script in action](/autodidactics/content/images/2021/12/open-urls-in-chrome.gif)
+![the script in action]({{ "/img/2021/12/open-urls-in-chrome.gif" | url}})
 
 And that's about it. Definitely worth giving [chrome-cli][chrome-cli] a whirl!
 

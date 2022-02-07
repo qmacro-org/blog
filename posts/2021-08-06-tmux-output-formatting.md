@@ -27,7 +27,7 @@ That's quite a bit to unpack and learn from! I've taken the liberty of inserting
 
 Before we start to unpack it, you can see what it does in this screenshot - on invocation, it brings up a session chooser in a popup for me to be able to switch to a different session. Nice!
 
-![session chooser in popup](/autodidactics/content/images/2021/08/session-chooser.png)
+![session chooser in popup]({{ "/img/2021/08/session-chooser.png" | url}})
 
 ## Unpacking the invocation
 

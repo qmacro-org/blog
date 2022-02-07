@@ -13,7 +13,7 @@ My friend and colleague Rui was asking today about finding directory information
 
 For a given (fictitious) trial global account, let's say I have a structure that looks like this:
 
-![BTP global account structure](/autodidactics/content/images/2021/10/btp-global-account-structure.png)
+![BTP global account structure]({{ "/img/2021/10/btp-global-account-structure.png" | url}})
 
 With the `btp` tool, I can see this information cleanly in my environment of choice, my Bash shell, with this invocation:
 
@@ -95,7 +95,7 @@ However, the structure of the JSON in this particular case is not regular; the n
 
 Here's a short section of the [JSON output](/autodidactics/content/2021/10/hierarchy.json), to show you what I mean:
 
-![JSON output structure](/autodidactics/content/images/2021/10/json-output-structure.png)
+![JSON output structure]({{ "/img/2021/10/json-output-structure.png" | url}})
 
 As it turns out, finding the objects in this hierarchy of nested parents and children turned out to be not as scary as I thought. Here's the invocation again, this time passing the option `--format json` when invoking `btp`, and parsing the output with `jq`:
 

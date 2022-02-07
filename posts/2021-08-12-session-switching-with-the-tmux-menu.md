@@ -12,7 +12,7 @@ I was looking at Waylon Walker's [tmux fzf session jumper](https://waylonwalker.
 
 Anyway, I was still thinking about session switching yesterday, and randomly came across this Reddit post: [how to bring up context menu without a mouse](https://www.reddit.com/r/tmux/comments/ot77fx/how_to_bring_up_context_menu_without_mouse/). I'd seen the context menu before, by accidentally triggering it with the right mouse button, and it looks something like this:
 
-![context menu](/autodidactics/content/images/2021/08/context-menu.png)
+![context menu]({{ "/img/2021/08/context-menu.png" | url}})
 
 It was [the comment by user Coffee_24_7](https://www.reddit.com/r/tmux/comments/ot77fx/how_to_bring_up_context_menu_without_mouse/h6tfadp/?utm_source=reddit&utm_medium=web2x&context=3) that really got me thinking - turns out that this type of menu can be called up with one of the myriad `tmux` commands, one which I hadn't yet come across: `display-menu`.
 
@@ -110,7 +110,7 @@ bind-key C-s run-shell session-menu
 
 And with this in place, I can invoke the session switch menu popup very comfortably - this is what it looks like:
 
-![session switch menu](/autodidactics/content/images/2021/08/session-switch-menu.png)
+![session switch menu]({{ "/img/2021/08/session-switch-menu.png" | url}})
 
 If I decide I don't want to switch sessions after all, I can just dismiss the menu with the standard key `q` (this is also in the `display-menu` part of the `tmux` man page).
 
